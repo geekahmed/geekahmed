@@ -1,57 +1,94 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<p align="center">
-&nbsp;
-<a href="https://www.linkedin.com/in/geekahmed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="geekahmed" height="30" width="30" /></a>&nbsp;
+<h1 align="center">Hi 👋, I'm Ahmed Moustafa</h1>
+<h3 align="center">Junior Software Engineer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekahmed&label=Profile%20views&color=0e75b6&style=flat"
+        alt="geekahmed" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=geekahmed" alt="geekahmed" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/geektefa" target="blank"><img
+            src="https://img.shields.io/twitter/follow/geektefa?logo=twitter&style=for-the-badge" alt="geektefa" /></a>
 </p>
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+- 🌱 I’m currently learning **Distributed Systems and Cloud Architecture**
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a Software Engineer Based out of Cairo 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.cs**, **.sql**, **.py**, **.\***
-- 💬 Talk to me about politics, engineering, silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
 
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="amazon_aws" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+- 👨‍💻 All of my projects are available at [https://github.com/geekahmed](https://github.com/geekahmed)
+
+
+- 💬 Ask me about **Politics, Startups, and Engineering**
+
+
+- 📫 How to reach me **geekahmed1@gmail.com**
+
+
+- 📄 Know about my experiences
+[https://drive.google.com/file/d/1ZZoGP6GXfkud3RJjr58-Eep47rngScfh/view?usp=sharing](https://drive.google.com/file/d/1ZZoGP6GXfkud3RJjr58-Eep47rngScfh/view?usp=sharing)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://twitter.com/geektefa" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+            alt="geektefa" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/geekahmed/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/geekahmed/" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/geekahmed1" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="geekahmed1" height="30" width="40" /></a>
+    <a href="https://discord.gg/geekahmed#7413" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+            alt="geekahmed#7413" height="30" width="40" /></a>
 </p>
 
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a
+        href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
+            height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+            alt="cplusplus" width="40" height="40" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank"
+        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask"
+            width="40" height="40" /> </a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40"
+            height="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
+        href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
+            width="40" height="40" /> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40"
+            height="40" /> </a> <a href="https://www.python.org" target="_blank"
+        rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+            alt="python" width="40" height="40" /> </a> <a href="https://fastapi.tiangolo.com/" target="_blank"
+            rel="noreferrer"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/fastapi/fastapi-original-wordmark.svg"
+                alt="fastapi" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank"
+                rel="noreferrer"> <img
+                    src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"
+                    alt="docker" width="40" height="40" /> </a> <a href="https://www.elastic.co/" target="_blank"
+                    rel="noreferrer"> <img
+                        src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"
+                        alt="elastic" width="40" height="40" /> </a> <a href="https://www.elastic.co/" target="_blank"
+                        rel="noreferrer"> <img
+                            src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"
+                            alt="kibana" width="40" height="40" /> </a> <a href="https://redis.io/" target="_blank"
+                            rel="noreferrer"> <img
+                                src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"
+                                alt="redis" width="40" height="40" /> </a></p>
 
-![Nours's GitHub stats](https://github-readme-stats.vercel.app/api?username=geekahmed&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekahmed&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geekahmed&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=geekahmed&show_icons=true&locale=en&layout=compact"
+        alt="geekahmed" /></p>
 
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=geekahmed&show_icons=true&locale=en" alt="geekahmed" />
+</p>
 
-
----
-
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
----
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
-
-
-
-<h4 align="center">Profile Views :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{geekahmed}/count.svg"/></p>
-
-<img src="https://raw.githubusercontent.com/mohamedanwer006/mohamedanwer006/master/assets/grid.png" align="center" />
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekahmed&" alt="geekahmed" /></p>
