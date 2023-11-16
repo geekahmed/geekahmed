@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Distributed Systems and Cloud Engineering**
 
-- 👨‍💻 All of my projects are available at [http://geekahmed.works/](http://geekahmed.works/)
+- 👨‍💻 All of my projects are available at [https://geekahmed.github.io/](https://geekahmed.github.io/)
 
-- 💬 Ask me about **Engineering, Politics, Startups, and Life**
+- 💬 Ask me about **Engineering, Startups, and Life**
 
 - 📫 How to reach me **geekahmed1@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i0lU7oqhtHguq1WR9OrHal_wckY1W3Xb/view?usp=sharing](https://drive.google.com/file/d/1i0lU7oqhtHguq1WR9OrHal_wckY1W3Xb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1neYwWxxXPxUUSHSyxBjymAEVmUbmTB8T/view?usp=sharing](https://drive.google.com/file/d/1neYwWxxXPxUUSHSyxBjymAEVmUbmTB8T/view?usp=sharing)
 
 - ⚡ Fun fact **I mostly listen to classical music.**
 
